@@ -9,8 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 549ba48481fc7b5419c3cad74ccf6095, type: 3}
-  m_Name: GlobalDatabase
+  m_Script: {fileID: 11500000, guid: 82d90e483d9b3cd4d813fde25d42d196, type: 3}
+  m_Name: PointAndClick
   m_EditorClassIdentifier: 
-  _targetDatabase: {fileID: 11400000, guid: 90107bae8b148e942b2aae067da33248, type: 2}
-  _abilityDatabase: {fileID: 11400000, guid: b43146e4d97c1174fb653708fd44d76e, type: 2}
